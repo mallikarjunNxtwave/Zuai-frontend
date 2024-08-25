@@ -1,0 +1,16 @@
+.footer-container {
+    width: 100%;
+    height: 60px;
+    box-sizing: border-box;
+    background-color: #95a8b8;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logout-icon {
+    width: 30px;
+    height: 30px;
+    color: #24272c;
+}
